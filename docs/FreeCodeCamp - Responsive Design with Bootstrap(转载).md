@@ -1,9 +1,5 @@
 FreeCodeCamp - Responsive Design with Bootstrap
-（转载）（
-作者：付林恒
-链接：https://www.jianshu.com/p/a44a5aa4eca1
-來源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。）
+（转载）（來源：简书 付林恒 https://www.jianshu.com/p/a44a5aa4eca1）
 Use Responsive Design with Bootstrap Fluid Containers
 现在让我们回到我们的Cat Photo应用。这次，我们将用流行的响应式框架Bootstrap来美化它。
 
