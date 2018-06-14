@@ -14,13 +14,6 @@ const data = [
   }
 ]
 
-// @connect(state => ({
-//   loading: state['file'].loading,
-//   list: state['file'].data.list,
-//   pagination: state['file'].data.pagination,
-//   allTeachers: state['file'].allTeachers,
-//   selectedTeacher: state['file'].selectedTeacher,
-// }))
 export default class UploadImagePicker extends React.Component {
   state = {
     files: data,
@@ -48,3 +41,4 @@ export default class UploadImagePicker extends React.Component {
     )
   }
 }
+
